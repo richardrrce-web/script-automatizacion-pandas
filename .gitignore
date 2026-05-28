@@ -1,0 +1,6 @@
+# Ignorar el archivo de salida de Excel
+reporte_ventas_VIP.xlsx
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
