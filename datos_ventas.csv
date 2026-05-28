@@ -1,0 +1,8 @@
+ID_Pedido,Cliente,Producto,Total,Estado
+1,Juan Pérez,Laptop,1200,Completado
+2,María López,Teclado,45,Pendiente
+3,Carlos Gomez,Monitor,300,Completado
+4,Ana Rodríguez,Mouse,25,Completado
+5,Luis Martínez,Audífonos,85,Cancelado
+6,Sofía Castro,Impresora,250,Completado
+7,Diego Díaz,Cable HDMI,15,Pendientes
